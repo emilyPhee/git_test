@@ -1,1 +1,2 @@
-This is Emily's first git project! 
+This is Emily's first git project!
+Hello Odin!
